@@ -8,7 +8,7 @@
 
 
 ### My Recent Frontend Projects
-👇 Pinned repository below 👇 || [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/by-yee)
+👇 Pinned repository 👇 || [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/by-yee)
 
 
 ## 🔧 Technologies & Tools
