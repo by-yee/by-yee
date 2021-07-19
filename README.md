@@ -2,12 +2,14 @@
 
 - 👀 I'm a Web Developer who are interested in Frontend.
 - 🌱 Currently learning : <img alt="html5" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-- ✨ I'm developing small and simple React project from [Frontend Mentor](https://www.frontendmentor.io/solutions) as a starter to learn React.
+- ✨ I'm developing mini and simple React project from [Frontend Mentor](https://www.frontendmentor.io/solutions) as a starter to learn React.
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bengyee/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a>
 
+## 💨 Ongoing Mini Project
+[Tip Calculator APP](https://github.com/by-yee/tip-calculator-app-main) - HTML | CSS | Javascript | React
 
-### My Recent Frontend Projects
+## 📜 My Recent Frontend Projects
 👇 Pinned repository 👇 || [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/by-yee)
 
 
