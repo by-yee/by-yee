@@ -7,7 +7,7 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bengyee/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a>
 
 ## 💨 Ongoing Challenge
-[Interactive Pricing Component](https://github.com/by-yee/interactive-pricing-component-main) - HTML | CSS | React
+[Interactive Pricing Component](https://github.com/by-yee/interactive-pricing-component-main) - HTML | SCSS | React
 
 ## 📜 My Recent Frontend Projects
 👇 Pinned repository 👇 || [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/by-yee)
