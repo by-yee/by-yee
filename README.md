@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bengyee/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a>
 
-## 💨 Ongoing Mini Project
+## 💨 Ongoing Challenge
 [Interactive Pricing Component](https://github.com/by-yee/interactive-pricing-component-main) - HTML | CSS | React
 
 ## 📜 My Recent Frontend Projects
