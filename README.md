@@ -37,7 +37,7 @@
 
 ## 📈 GitHub Stats
 <a href="https://github.com/by-yee/by-yee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-yee&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bengyee's Top Lang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-yee&hide=css,less&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bengyee's Top Lang" />
 </a>
 <a href="https://github.com/by-yee/by-yee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=by-yee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bengyee's GitHub Stats" />
